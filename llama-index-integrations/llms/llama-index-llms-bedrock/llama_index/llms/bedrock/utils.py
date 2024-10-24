@@ -48,6 +48,7 @@ CHAT_ONLY_MODELS = {
     "anthropic.claude-3-haiku-20240307-v1:0": 200000,
     "anthropic.claude-3-opus-20240229-v1:0": 200000,
     "anthropic.claude-3-5-sonnet-20240620-v1:0": 200000,
+    "anthropic.claude-3-5-sonnet-20241022-v2:0": 200000,
     "cohere.command-r-plus-v1:0": 128000,
     "meta.llama2-13b-chat-v1": 2048,
     "meta.llama2-70b-chat-v1": 4096,
